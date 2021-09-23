@@ -1,7 +1,7 @@
 # PC1
 
-<Su nombre>
+Su nombre
 
 ## Pregunta 2
   
-<El link de su Pull Request>
+El link de su Pull Request
