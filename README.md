@@ -1,7 +1,21 @@
 # PC1
 
-Su nombre
+`Ingrese su nombre`
+
+## Pregunta 1
+
+[pregunta1.md](./pregunta1.md)
 
 ## Pregunta 2
   
-El link de su Pull Request
+[pregunta2.sql](./pregunta2.sql)
+
+Escriba el link de su Pull Request
+
+## Pregunta 3
+
+[pregunta3.md](./pregunta3.md)
+
+## Pregunta 4
+
+[pregunta4.md](./pregunta4.md)
