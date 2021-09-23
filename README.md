@@ -10,7 +10,7 @@
   
 [pregunta2.sql](./pregunta2.sql)
 
-Escriba el link de su Pull Request
+Coloque el link de su Pull Request
 
 ## Pregunta 3
 
