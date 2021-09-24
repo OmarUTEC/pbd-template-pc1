@@ -1,5 +1,7 @@
 # PC1
 
+[Enunciado](https://github.com/franciscovilchezv/platform-based-development/Quizzes/PC1/README.md)
+
 `Ingrese su nombre`
 
 ## Pregunta 1
@@ -10,7 +12,7 @@
   
 [pregunta2.sql](./pregunta2.sql)
 
-Coloque el link de su Pull Request
+`Coloque aquí el link de su Pull Request`
 
 ## Pregunta 3
 
