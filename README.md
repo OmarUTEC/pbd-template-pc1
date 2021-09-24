@@ -1,6 +1,6 @@
 # PC1
 
-[Enunciado](https://github.com/franciscovilchezv/platform-based-development/Quizzes/PC1/README.md)
+[Enunciado de la PC1](https://github.com/franciscovilchezv/platform-based-development/Quizzes/PC1/README.md)
 
 `Ingrese su nombre`
 
